@@ -1,0 +1,22 @@
+{
+  "name": "chatty",
+  "version": "1.0.0",
+  "description": "REST-based chat server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amantina05/chatty.git"
+  },
+  "author": "tina sosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amantina05/chatty/issues"
+  },
+  "homepage": "https://github.com/amantina05/chatty#readme",
+  "dependencies": {
+    "package-name": "^0.1.0"
+  }
+}
